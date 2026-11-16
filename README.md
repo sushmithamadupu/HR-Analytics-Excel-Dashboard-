@@ -74,9 +74,13 @@ The dashboard includes interactive Excel slicers to filter and explore employee 
 
 **Project Files**
 
-HR_Analytics_Excel_workbook.xlsx – Excel dashboard and analysis.
+HR Analytics Excel workbook.xlsx – Excel dashboard and analysis.
 
 HR_Dashboard_Preview.png – Dashboard screenshot
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Dashboard_Preview.png)
 
 **Conclusion**
 
